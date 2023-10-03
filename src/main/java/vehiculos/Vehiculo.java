@@ -1,5 +1,4 @@
 package vehiculos;
-
 import java.util.*;
 
 public class Vehiculo {
